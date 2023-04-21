@@ -1,6 +1,8 @@
-# codex - Your AI
+# Codex - Your AI
 
-### Client
+![Open AI CodeGPT](https://i.ibb.co/LS4DRhb/image-257.png)
+
+## Client
 
 1. Setup vanilla project using [vite](https://vitejs.dev/guide/)
     ```bash
@@ -10,7 +12,7 @@
 
 3. Install all dependensis using 
 
-### Server
+## Server
 
 1. Go to [OpenAI](https://beta.openai.com/account/api-keys), signup and create a secret key. Make sure to copy it as it'll be shown only once!
 3. Create a script in package file to run the server instead of manually running it
