@@ -34,7 +34,7 @@
 1. Download the code/ clone the repo
 
 ```bash
-git clone https://github.com/ayushjain01/NITk-DangeDhaba.git
+git clone https://github.com/YogeshDPalve/codex.git
 ```
 
 
